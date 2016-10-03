@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For OneWire
+#######################################
+# Krzysztof Nowakowski
+#######################################
+# Datatypes	(KEYWORD1)
+#######################################
+
+IntegerList			KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+addDigit			KEYWORD2
+addDigitAfter		KEYWORD2
+addArrayAtTheEnd	KEYWORD2
+addArrayAfter		KEYWORD2
+getDigit			KEYWORD2
+listLength			KEYWORD2
+isEmpty				KEYWORD2
+hasDigit			KEYWORD2
+changeValue			KEYWORD2
+minDigit			KEYWORD2
+maxDigit			KEYWORD2
+sum					KEYWORD2
+average				KEYWORD2
+sortFromMinToMax	KEYWORD2
+invertList			KEYWORD2
+deleteDigit			KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+
+#######################################
+# Constants (LITERAL1)
+#######################################
