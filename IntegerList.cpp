@@ -3,7 +3,6 @@
 
 	Dynamic list of integers.
 */
-#include "stdafx.h"
 #include "IntegerList.h"
 
 
